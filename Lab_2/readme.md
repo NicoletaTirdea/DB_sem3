@@ -18,4 +18,6 @@
 <br>
 
 ![Screenshot 1](images/scren1.jpg "Screenshot 1")
-<center><i>Task 1 - Screenshot</i></center>
+<center><i>Task 2 - Screenshot 2</i></center>
+
+Testing commit message from VsCode
