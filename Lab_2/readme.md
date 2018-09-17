@@ -37,4 +37,17 @@
 ### Task 4
 Craeți planul de întreținere a bazei de date, construite în exercițiul 2. Numele planului va fi: <i><b>"Recunstruirea Index </b></i>. În cadrul acestui plan, sistemul trebuie să realizeze reconstrucirea indecșilor numai asupra tabelelor dea bază (exclusiv viziunilor) din toate schemele care există în baza de date în cauză. Spațiul liber pe pagină trebuie să fie 10%. Sortarea indecșilor trebuie să se realizeze în <i><b>tempbd </b></i>. După reconstruire, trebuie să uremeze colectarea statisticilor complete despre indecșii reconstruiți. Al treilea pas al planului trebuie să constituie sarcina de ștergere a istoriei despre operațiile de <i>Backup-Restore</i> ce au avut loc pe SQLServer. Trebuie șters istoricul care este mai vechi de 6 săptămâni. Acest plan trebuie să fie executat în fiecare prima duminică a lunii. Creați dosarul <i><b> MyDocuments\SQL_reports</b></i>. Raportul de executare a planului trebuie sa fie adăugat în acest fișier. Procesul de mentenanță- să fie logat în mod <i>extended</i>. Inițializați executarea planului. După executare, verificați rezultatele în fișierul <i>log </i> generat.
 
+<br>
+<img src="images/screen_1_task4.png" >
+<center><i>Task 4 - Screenshot 1</i></center>
+<br>
+<br>
+<img src="images/screen_2_task4.png" >
+<center><i>Task 4 - Screenshot 2</i></center>
+<br><br>
+<img src="images/screen_3_task4.png" >
+<center><i>Task 4 - Screenshot 3</i></center>
+<br><br>
+<img src="images/scrren_5_task4.png" >
+<center><i>Task 4 - Screenshot 4</i></center>
 
