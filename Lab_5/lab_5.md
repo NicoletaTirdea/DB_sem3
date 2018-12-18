@@ -21,3 +21,8 @@ Modificati exercitiile din sarcinile 1 si 2 pentru a include procesarea erorilor
 ![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4_code.png)
 ![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4_rasp.png)
 
+![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4.2_cod.png)
+![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4.2_rasp.png)
+
+![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4.3.cod.png)
+![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4.3_rasp.png)
