@@ -18,5 +18,5 @@ Rezolvati aceesi sarcina, 1, apeland la structura selectiva CASE.
 
 # Task_4
 Modificati exercitiile din sarcinile 1 si 2 pentru a include procesarea erorilor cu TRY, CATCH, si RAISERRROR.
-![img] (https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4_code.png)
-![img] (https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4_code.png)
+![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4_code.png)
+![img](https://github.com/NicoletaTirdea/DB_sem3/blob/master/Lab_5/Images/task_4_code.png)
